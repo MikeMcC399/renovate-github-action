@@ -35,6 +35,14 @@
     },
     {
       "matchUpdateTypes": ["lockFileMaintenance"],
+      "matchFileNames": [
+        "examples/yarn-modern/**",
+        "examples/yarn-modern-pnp/**"
+      ],
+      "enabled": false
+    },
+    {
+      "matchUpdateTypes": ["lockFileMaintenance"],
       "minimumReleaseAge": null
     },
     {
