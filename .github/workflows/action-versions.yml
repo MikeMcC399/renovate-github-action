@@ -170,7 +170,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v7
       - name: Cypress tests
-        uses: cypress-io/github-action@v6
+        uses: cypress-io/github-action@v7.4.3
         with:
           working-directory: examples/basic
 
