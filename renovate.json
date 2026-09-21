@@ -31,8 +31,7 @@
     {
       "matchUpdateTypes": ["lockFileMaintenance"],
       "matchFileNames": ["examples/**"],
-      "enabled": true,
-      "minimumReleaseAge": null
+      "enabled": true
     },
     {
       "matchUpdateTypes": ["lockFileMaintenance"],
